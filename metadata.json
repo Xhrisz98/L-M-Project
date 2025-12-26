@@ -1,0 +1,7 @@
+{
+  "name": "L&M La Casa del Borrego",
+  "description": "Sitio web profesional para el restaurante L&M La Casa del Borrego en Ecuador, destacando asados tradicionales y platos típicos con un diseño rústico-moderno.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
